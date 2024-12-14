@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/home/starship/.espressif/tools/xtensa-esp-elf-gdb/11.2_20220823/xtensa-esp-elf-gdb/bin:/home/starship/.espressif/tools/riscv32-esp-elf-gdb/11.2_20220823/riscv32-esp-elf-gdb/bin:/home/starship/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin:/home/starship/.espressif/tools/xtensa-esp32s2-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s2-elf/bin:/home/starship/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin:/home/starship/.espressif/tools/riscv32-esp-elf/esp-2021r2-patch5-8.4.0/riscv32-esp-elf/bin:/home/starship/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/home/starship/.espressif/tools/cmake/3.23.1/bin:/home/starship/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/bin:/home/starship/.espressif/tools/ninja/1.10.2",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/starship/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.espIdfPath": "/home/starship/esp/v4.4.7/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.port": "/dev/ttyUSB1",
+    "idf.pythonBinPath": "/home/starship/.espressif/python_env/idf4.4_py3.10_env/bin/python",
+    "idf.toolsPath": "/home/starship/.espressif",
+    "idf.flashType": "UART"
+}
